@@ -50,7 +50,7 @@ Accepted contributions will be __posted on the workshop website (unless the auth
 
 For accepted contributions, at least one author must register for the conference and attend the workshop to present the work. 
 
-Submit Portal: TBA
+[Submit Portal](https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2025/Track/22/Submission/Create)
 
 ### Important Dates  
 * __Submission__: June 14, 2025
