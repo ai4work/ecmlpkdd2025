@@ -53,8 +53,8 @@ For accepted contributions, at least one author must register for the conference
 [Submit Portal](https://cmt3.research.microsoft.com/ECMLPKDDWorkshopTrack2025/Track/22/Submission/Create)
 
 ### Important Dates  
-* __Submission__: June 14, 2025
-* __Notification__: July 14, 2025
+* __Submission__: July 14, 2025
+* __Notification__: <span style="color:red">~~July 14, 2025~~ August 14, 2025</span>
 * __Camera-ready__: TBA
 * __Workshop date__: September 15, 2025
 
